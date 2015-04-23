@@ -1,0 +1,19 @@
+{
+  "name": "ekşigetir",
+  "description": "ekşisözlük'de bir başlığa hızlıca ulaşmanızı amaçlayan hede",
+  "author": "Efe Öge",
+  "homepage_url": "https://github.com/efe/eksigetir",
+  "omnibox": {
+    "keyword": "ekşi"
+          },
+  "icons": {
+    "16": "16.png",
+    "48": "48.png"
+  },
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "version": "1.0",
+  "minimum_chrome_version": "9",
+  "manifest_version": 2
+}
