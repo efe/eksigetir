@@ -3,10 +3,10 @@
 ![ekşigetir](https://lh3.googleusercontent.com/X3tzGT4FlmRfpc895BIB2FLIZznD43UsaRKFp6m8qcfhJAInX_149SHI7IROEOdI2ekeyHmdf1o=s640-h400-e365-rw)
 
 ## tanım
-ekşisözlük'deki bir başlığa kolayca ulaşmanızı sağlayan google chrome hedesi..
+ekşisözlük'deki bir başlığa kolayca ulaşmanızı sağlayan _google chrome_ hedesi.
 
 ## kullanım
-adres çubuğuna <i>ekşi</i> yazdıktan sonra, boşluk bırakıp ekşisözlük'de ulaşmak istediğiniz başlığı girdiğiniz zaman sizi ekşisözlük'deki başlığa yönlendiriyor.
+adres çubuğuna `ekşi` yazdıktan sonra, boşluk bırakıp ekşisözlük'de ulaşmak istediğiniz başlığı girdiğiniz zaman sizi ekşisözlük'deki başlığa yönlendiriyor. ayrıca `ekşi @{yazarismi}` ile de yazar sayfasına ulaşmak mümkün.
 
 ## kurulum
 
